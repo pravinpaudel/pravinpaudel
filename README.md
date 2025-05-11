@@ -4,11 +4,13 @@ I'm Pravin Paudel, a passionate Computer Science student and aspiring Software E
 I'm always eager to learn new technologies and improve my problem-solving skills by working on challenges and hackathons. I believe in clean code, test-driven development (TDD), and scalable architecture to build robust applications.
 
 ## 🌟 Technologies I've worked with:
-- **Frontend:** React, JavaScript, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, SQLite
-- **Authentication & Security:** JSON Web Tokens (JWT), REST API
+- **Languages:** Java, Python, C, JavaScript
+- **Frontend:** React, JavaScript, TypeScript, HTML, Tailwind CSS, Streamlit
+- **Backend & APIs:** GraphQL, REST APIs, Prisma ORM, Express.js, Node.js, Flask, Django
+- **Databases:** PostgreSQL, SQLite, MongoDB
+- **Authentication & Security:** JSON Web Tokens (JWT)
 - **Development Practices:** Test-Driven Development (TDD), Object-Oriented Design (OOD)
-- **Other Tools & Platforms:** Git, Linux, Docker
+- **Other Tools & Platforms:** Git, Linux, Docker, Vercel
 
 
 ## 🚀 What I’m Looking For:
