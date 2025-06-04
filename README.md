@@ -19,6 +19,8 @@ I'm always eager to learn new technologies and improve my problem-solving skills
 - 🔹 Collaborations on interesting projects involving web development, algorithms, or AI.
 
 ## My Projects
+- **LinkSnip – URL Shortner** [Link](https://github.com/pravinpaudel/LinkSnip)
+- **Social Network Backend** - A GraphQL based backend project that mimics 'Threads' application. [Link](https://github.com/pravinpaudel/threads-backend)
 - **MuscleMate** – Full-Stack Workout Planner [Link](https://github.com/pravinpaudel/MuscleMate)
 - **False9 (Football Data Aggregator)** - A web app that displays real-time football analytics. [Link](https://github.com/pravinpaudel/false9)
 - **Scribbler** - Notes editor. [Link](https://github.com/pravinpaudel/Scribbler)
