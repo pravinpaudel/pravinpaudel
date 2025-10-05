@@ -20,6 +20,7 @@ I'm always eager to learn new technologies and improve my problem-solving skills
 
 ## My Projects
 - **LinkSnip – URL Shortner** [Link](https://github.com/pravinpaudel/LinkSnip)
+- **Memoize** - A web app to interactively learn and visualize the working of algorithms. [Link](https://memoize-delta.vercel.app/)
 - **Social Network Backend** - A GraphQL based backend project that mimics 'Threads' application. [Link](https://github.com/pravinpaudel/threads-backend)
 - **MuscleMate** – Full-Stack Workout Planner [Link](https://github.com/pravinpaudel/MuscleMate)
 - **False9 (Football Data Aggregator)** - A web app that displays real-time football analytics. [Link](https://github.com/pravinpaudel/false9)
