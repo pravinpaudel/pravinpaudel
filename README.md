@@ -1,35 +1,76 @@
-## Hello! 👋👋
-I'm Pravin Paudel, a passionate Computer Science student and aspiring Software Engineer. I have experience in full-stack development, focusing on building scalable and efficient applications. My expertise lies in JavaScript, React, Node.js, Express.js, and MongoDB, and I enjoy working on backend services, authentication, and web applications.
+## Hey, I’m Pravin 👋
 
-I'm always eager to learn new technologies and improve my problem-solving skills by working on challenges and hackathons. I believe in clean code, test-driven development (TDD), and scalable architecture to build robust applications.
+I specialize in turning messy, ambiguous ideas into **clear, executable systems**.
 
-## 🌟 Technologies I've worked with:
-- **Languages:** Java, Python, C, JavaScript
-- **Frontend:** React, JavaScript, TypeScript, HTML, Tailwind CSS, Streamlit
-- **Backend & APIs:** GraphQL, REST APIs, Prisma ORM, Express.js, Node.js, Flask, Django
-- **Databases:** PostgreSQL, SQLite, MongoDB
-- **Authentication & Security:** JSON Web Tokens (JWT)
-- **Development Practices:** Test-Driven Development (TDD), Object-Oriented Design (OOD)
-- **Other Tools & Platforms:** Git, Linux, Docker, Vercel
+As a Computer Science student, I build scalable software by emphasizing structure, clean abstractions, and feedback-driven iteration - so systems improve with use instead of collapsing under it.
+
+I’m drawn to problems where structure matters - designing software that remains understandable, maintainable, and useful as it grows. My projects emphasize system clarity, iteration based on real usage, and long-term reliability over one-off features.
+
+---
+
+## 🧠 Engineering Mindset
+- Systems over scripts
+- Clarity beats cleverness
+- Scale reveals design flaws
+
+I care deeply about clean abstractions, thoughtful tradeoffs, and writing software that other engineers can confidently build on.
+
+---
+
+## 🛠️ Technical Stack
+Used pragmatically, in service of the system.
+
+- **Languages:** JavaScript, TypeScript, Python, Java, C, Prolog, Lisp 
+- **Frontend:** React, HTML, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
+- **Datastores:** MongoDB, PostgreSQL, SQLite, MYSQL, Redis  
+- **Auth & Security:** JWT-based authentication, stateful session handling  
+- **Infra & Deployment:** Oracle Cloud, Nginx, Docker, Vercel, Railways  
+- **Practices:** Object-Oriented Design, Test-Driven Development  
+- **Tooling:** Git, Linux  
+
+---
+
+## 📌 Selected Projects (Impact-Focused)
+
+### [**Snapture**](https://snapture-web.vercel.app/)
+Event capture and organization platform built with a feedback-driven iteration loop.  
+- Achieved **150+ poster scans** and **20+ early users** during beta launch  
+- Enabled instant event capture while driving continuous improvements through structured feedback and accountable iteration  
+
+---
+
+### [**Memoize**](https://memoize-delta.vercel.app/)
+Algorithm visualization platform designed to reduce abstraction barriers in CS education.  
+- Used by **60+ students every semester** to understand core data structures and algorithms  
+- Built step-by-step visualizations to make abstract concepts intuitive and refined continuously based on classroom feedback  
+
+---
+
+### **Live Agent Support System**
+Real-time customer support system built to improve responsiveness and engagement.  
+- Shipped a WebSocket-based live chat system, increasing user engagement by **10%** through faster, personalized interactions  
+- Designed a scalable MERN backend with clear separation between messaging, authentication, and session state  
+- Deployed behind **Nginx** with **Redis-backed state management** to support concurrent users reliably  
+
+---
+
+### [**Planit**](https://planit-frontend-delta.vercel.app/dashboard)
+A structured roadmap platform for breaking goals into milestones and tracking consistent progress.  
+- Emphasized system structure, extensibility, and user-driven iteration  
 
 
-## 🚀 What I’m Looking For:
-- 🔹 Exciting Software Engineering internships to apply my skills in a professional setting.
-- 🔹 Opportunities to contribute to open-source projects.
-- 🔹 Collaborations on interesting projects involving web development, algorithms, or AI.
+[👉 More projects](https://github.com/pravinpaudel?tab=repositories)
 
-## My Projects
-- **LinkSnip – URL Shortner** [Link](https://github.com/pravinpaudel/LinkSnip)
-- **Memoize** - A web app to interactively learn and visualize the working of algorithms. [Link](https://memoize-delta.vercel.app/)
-- **Social Network Backend** - A GraphQL based backend project that mimics 'Threads' application. [Link](https://github.com/pravinpaudel/threads-backend)
-- **MuscleMate** – Full-Stack Workout Planner [Link](https://github.com/pravinpaudel/MuscleMate)
-- **False9 (Football Data Aggregator)** - A web app that displays real-time football analytics. [Link](https://github.com/pravinpaudel/false9)
-- **Scribbler** - Notes editor. [Link](https://github.com/pravinpaudel/Scribbler)
-- **Virtual Auction Platform** - A platform to conduct auctions virtually. [Link](https://github.com/pravin10-4/Projects)
-- [See more](https://github.com/pravinpaudel?tab=repositories)
+---
 
-## 📫 Let's Connect!
-- 📧 Email: [Email](pravinpaudel0063@gmail.com)
-- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/pravinpaudel/)
+## 🔍 What I’m Looking For
+- Software Engineering internships opportunities
+- Teams that value **ownership, clarity, and long-term system health**
+- Opportunities to learn from strong engineers and contribute to production systems
 
-  
+---
+
+## 📫 Let’s Connect
+- 📧 Email: [Email](https://pravinpaudel.vercel.app/#contact)
+- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/pravinpaudel/) 
