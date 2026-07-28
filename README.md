@@ -1,5 +1,7 @@
 ## Hey, I’m Pravin 👋
 
+An engineer who notices everyday friction and builds thoughtful software to remove it. 
+
 I specialize in turning messy, ambiguous ideas into **clear, executable systems**.
 
 As a Computer Science student, I build scalable software by emphasizing structure, clean abstractions, and feedback-driven iteration - so systems improve with use instead of collapsing under it.
