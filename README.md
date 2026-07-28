@@ -1,6 +1,6 @@
 ## Hey, I’m Pravin 👋
 
-An engineer who notices everyday friction and builds thoughtful software to remove it. 
+An engineer who notices everyday friction and builds thoughtful solutions to remove it. 
 
 I specialize in turning messy, ambiguous ideas into **clear, executable systems**.
 
