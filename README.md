@@ -1,78 +1,52 @@
 ## Hey, I’m Pravin 👋
 
-An engineer who notices everyday friction and builds thoughtful solutions to remove it. 
+I'm a builder who loves turning ideas into products people actually use—and figuring out the engineering decisions that make those products reliable, scalable, and worth building.
 
-I specialize in turning messy, ambiguous ideas into **clear, executable systems**.
+What excites me most isn't a particular framework or programming language—it's understanding a problem, making thoughtful engineering decisions, and building software that creates lasting value.
 
-As a Computer Science student, I build scalable software by emphasizing structure, clean abstractions, and feedback-driven iteration - so systems improve with use instead of collapsing under it.
+Over the past few years I've worked on everything from mobile applications and backend services to cloud infrastructure and AI-powered tools. Whether I'm designing a backend architecture, building a product from scratch, or experimenting with new AI workflows, I'm always asking the same questions:
 
-I’m drawn to problems where structure matters - designing software that remains understandable, maintainable, and useful as it grows. My projects emphasize system clarity, iteration based on real usage, and long-term reliability over one-off features.
+* Does this solve the real problem?
+* Will someone actually use it?
+* Can another engineer understand and extend it?
+* What's the simplest solution that will scale?
 
----
+I believe AI is changing how software gets built, but not what makes software valuable. Generating code is becoming easier. Engineering judgment, product thinking, and ownership are becoming even more important.
 
-## 🧠 Engineering Mindset
-- Systems over scripts
-- Clarity beats cleverness
-- Scale reveals design flaws
+## Building products people actually use
 
-I care deeply about clean abstractions, thoughtful tradeoffs, and writing software that other engineers can confidently build on.
+- 60+ students use **Memoize** every semester to study algorithms
+- 150+ campus event posters digitized with **Snapture**
+- 40+ beta users across products I've built
+- 2+ years shipping production software across internships
+- Designed and deployed backend services powering real-world applications
 
----
+## What I'm currently interested in
 
-## 🛠️ Technical Stack
-Used pragmatically, in service of the system.
+* Building products from idea to deployment
+* Backend engineering & scalable systems
+* Software architecture and engineering trade-offs
+* AI-assisted software development
+* Developer tools and automation
+* Learning in public by sharing what I build and what I learn
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C, Prolog, Lisp 
-- **Frontend:** React, HTML, Tailwind CSS  
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
-- **Datastores:** MongoDB, PostgreSQL, SQLite, MYSQL, Redis  
-- **Auth & Security:** JWT-based authentication, stateful session handling  
-- **Infra & Deployment:** Oracle Cloud, Nginx, Docker, Vercel, Railways  
-- **Practices:** Object-Oriented Design, Test-Driven Development  
-- **Tooling:** Git, Linux  
+## Current philosophy
 
----
+> Build things that solve real problems.
+> Think before optimizing.
+> Ship, learn, iterate.
+> Stay curious.
 
-## 📌 Selected Projects (Impact-Focused)
+## Outside of code
 
-### [**Snapture**](https://snapture-web.vercel.app/)
-Event capture and organization platform built with a feedback-driven iteration loop.  
-- Achieved **150+ poster scans** and **20+ early users** during beta launch  
-- Enabled instant event capture while driving continuous improvements through structured feedback and accountable iteration  
+You'll usually find me at builder meetups, hackathons, or exploring how great products are designed. I enjoy talking with founders, engineers, and anyone passionate about building useful software.
 
----
+I'm always happy to connect, exchange ideas, or collaborate on interesting projects.
 
-### [**Memoize**](https://memoize-delta.vercel.app/)
-Algorithm visualization platform designed to reduce abstraction barriers in CS education.  
-- Used by **60+ students every semester** to understand core data structures and algorithms  
-- Built step-by-step visualizations to make abstract concepts intuitive and refined continuously based on classroom feedback  
-
----
-
-### **Live Agent Support System**
-Real-time customer support system built to improve responsiveness and engagement.  
-- Shipped a WebSocket-based live chat system, increasing user engagement by **10%** through faster, personalized interactions  
-- Designed a scalable MERN backend with clear separation between messaging, authentication, and session state  
-- Deployed behind **Nginx** with **Redis-backed state management** to support concurrent users reliably  
-
----
-
-### [**Planit**](https://planit-frontend-delta.vercel.app/dashboard)
-A structured roadmap platform for breaking goals into milestones and tracking consistent progress.  
-- Emphasized system structure, extensibility, and user-driven iteration  
-
-
-[👉 More projects](https://github.com/pravinpaudel?tab=repositories)
-
----
-
-## 🔍 What I’m Looking For
-- Software Engineering internships opportunities
-- Teams that value **ownership, clarity, and long-term system health**
-- Opportunities to learn from strong engineers and contribute to production systems
 
 ---
 
 ## 📫 Let’s Connect
 - 📧 Email: [Email](https://pravinpaudel.vercel.app/#contact)
-- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/pravinpaudel/) 
+- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/pravinpaudel/)
+- [👉 More products](https://github.com/pravinpaudel?tab=repositories)
